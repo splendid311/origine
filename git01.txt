@@ -1,0 +1,20 @@
+cd desktop
+mkdir git-maktab
+cd git-maktab
+git int
+git config --global user.name "ali"
+git config --global user.email "heydari@gmail.com"
+touch test.txt
+git status
+git add test.txt
+touch test2.txt
+git status
+git add test2.txt
+touch test3.txt
+git status
+git add index.html
+nano index.html
+git status
+git diff HEAD-3
+git diff HEAD-3 index.html
+
