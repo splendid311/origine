@@ -1,20 +1,7 @@
-cd desktop
-mkdir git-maktab
-cd git-maktab
-git int
-git config --global user.name "ali"
-git config --global user.email "heydari@gmail.com"
-touch test.txt
-git status
-git add test.txt
-touch test2.txt
-git status
-git add test2.txt
-touch test3.txt
-git status
-git add index.html
-nano index.html
-git status
-git diff HEAD-3
-git diff HEAD-3 index.html
-
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACDMXVFK1+MEnB7jT0mGkCdwioShbTCurgjWb67xcTZeiQAAAKAjhXvjI4V7
+4wAAAAtzc2gtZWQyNTUxOQAAACDMXVFK1+MEnB7jT0mGkCdwioShbTCurgjWb67xcTZeiQ
+AAAEC9lqa/uhN79PFo2Fikqrudn7//QOylLBpo07HKJXswWcxdUUrX4wScHuNPSYaQJ3CK
+hKFtMK6uCNZvrvFxNl6JAAAAG2hlaWRhcmlfYWxpQERFU0tUT1AtRjQxTTUwNQEC
+-----END OPENSSH PRIVATE KEY-----
